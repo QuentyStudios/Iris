@@ -1,0 +1,29 @@
+{
+	"name": "@quentystudios/iris",
+	"version": "2.5.1-quenty.0",
+	"description": "QuentyStudios fork of Iris",
+	"main": "lib/init.lua",
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://npm.pkg.github.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/QuentyStudios/Iris.git"
+	},
+	"keywords": [],
+	"author": "QuentyStudios",
+	"contributors": [
+		"QuentyStudios",
+		"Michael-48",
+		"SirMallard"
+	],
+	"homepage": "https://github.com/QuentyStudios/Iris",
+	"license": "MIT",
+	"files": [
+		"lib",
+		"LICENSE.txt",
+		"README.md"
+	]
+}
+
