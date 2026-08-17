@@ -1,6 +1,6 @@
 {
 	"name": "@quentystudios/iris",
-	"version": "2.5.1-quenty.1",
+	"version": "2.5.1-quenty.2",
 	"description": "QuentyStudios fork of Iris",
 	"main": "lib/init.lua",
 	"publishConfig": {
