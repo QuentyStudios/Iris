@@ -1,6 +1,6 @@
 {
 	"name": "@quentystudios/iris",
-	"version": "2.5.1-quenty.2",
+	"version": "2.5.1-quenty.3",
 	"description": "QuentyStudios fork of Iris",
 	"main": "lib/init.lua",
 	"publishConfig": {
@@ -22,6 +22,7 @@
 	"license": "MIT",
 	"files": [
 		"lib",
+		"default.project.json",
 		"LICENSE.txt",
 		"README.md"
 	]
